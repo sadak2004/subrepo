@@ -1,0 +1,3 @@
+[submodule "subsubrepo"]
+	path = subsubrepo
+	url = https://github.com/sadak2004/subsubrepo
